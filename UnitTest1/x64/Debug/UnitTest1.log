@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\lizas\Desktop\ВИШ\ІПЗ\ЛБ3\Project2\Project2\lab3.h(53,31): warning C4101: 'y': unreferenced local variable
+  The contents of <expected> are available only with C++23 or later.
+C:\Users\lizas\Desktop\ВИШ\ІПЗ\ЛБ3\Project2\UnitTest1\UnitTest1.cpp(49,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizas\Desktop\ВИШ\ІПЗ\ЛБ3\Project2\UnitTest1\UnitTest1.cpp(77,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\lizas\Desktop\ВИШ\ІПЗ\ЛБ3\Project2\x64\Debug\UnitTest1.dll
